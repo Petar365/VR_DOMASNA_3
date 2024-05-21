@@ -1,0 +1,146 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1716293572879896, "dur":13617, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293572893542, "dur":50016, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293572943757, "dur":193, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1716293572943950, "dur":832, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293572944874, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1716293572945248, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1716293572945357, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1716293572948651, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/System.Xml-FeaturesChecked.txt_wnnz.info" }}
+,{ "pid":12345, "tid":0, "ts":1716293572951625, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UI-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1716293572952478, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Link_Android_arm32 Library/Bee/artifacts/Android/iz17e/libil2cpp.so" }}
+,{ "pid":12345, "tid":0, "ts":1716293572952812, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/4qqi9/t7cz1ajaeonf.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572955404, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/e0iaz3rvzvqw.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572955914, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/lg0emyqael2l.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572956173, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/5xk5oc1rhqye.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572957236, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/x6ly2/kk8af1dh5tar0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572957301, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/lw0wco4g6uho.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572957363, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/x6ly2/bipmwavns42h0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572959688, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/2hvtpnqryytz.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572959775, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/p1c46yffsacn.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572960301, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/67npjxxvu00o.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572960480, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/0oql54u1lve6.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572960739, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/x6ly2/u27s3lal6s81.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572961443, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/ibel865ds17h.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572961782, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/ykdd6y400a4j.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572962948, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/z3qmi5lorw60.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572963607, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/d9hy6qky3fae.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572963813, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/5rcf2y7ogiqf.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572964603, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/75yss71w93d0.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572965370, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/tr4deau31bwo.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572966664, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/7fsejatesihj.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572966887, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/066bzxw38me0.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572968780, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/9bpx6lhco0no.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572970296, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/b4wq2ky6307n.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572970565, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/ii9b3ro1co6e.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572970673, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/45wg3gjxjezd.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572973326, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/uw5td6nr20hl.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572973387, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/9s9go4m8m9c9.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572973517, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/75soa8esig4s.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572973579, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm32 Library/Bee/artifacts/Android/iz17e/2o7z8kvnad6w.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572978899, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/87lik/2s7v87kvisx3.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572979916, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/87lik/yx69y3295d8u.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572980138, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/87lik/oj1nhjrkr70f.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572980438, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/87lik/bipmwavns42h0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572981695, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/Android/87lik/ea4fx62pl8ag0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572983849, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/61iwarhao8ni.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572986968, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/d0evgfbf86vf.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572987188, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6qtsw2e4obtw.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572987664, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zd3fxyix0p2l.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572989418, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mz4bhl8x7vai.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572989604, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7h39t57arwnt.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572989881, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ffby9kvn5cfg.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572990213, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nt78woiykhm2.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572991612, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nja1gnm9rzmh.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572993936, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gxoxkqdybrqp.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572994418, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/e7o4bbpkthyd.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572995569, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/khdg5wquj43c.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572996053, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2azvc48zlkqs.o" }}
+,{ "pid":12345, "tid":0, "ts":1716293572998010, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__18.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572998561, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__12.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293572999521, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__33.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573000366, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__51.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573003283, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__14.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573006091, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__4.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573008376, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.PropertiesModule.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573009116, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule__1.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573009815, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__2.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1716293573011081, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Google.XR.Cardboard.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1716293573011510, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1716293573012256, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Interaction.Toolkit.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1716293573013000, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Project/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1716293572944857, "dur":71904, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573016771, "dur":73494, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573090321, "dur":154040, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573244370, "dur":17857, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573262290, "dur":126802, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573389190, "dur":31233, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1716293572944611, "dur":72168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716293573016783, "dur":73472, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716293572945011, "dur":71843, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716293573016857, "dur":201163, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Resources.Writer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716293573218020, "dur":25079, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Resources.ResourceManager.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716293573016857, "dur":227462, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716293572944659, "dur":72130, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716293573017152, "dur":176362, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-strip.exe" }}
+,{ "pid":12345, "tid":3, "ts":1716293573193515, "dur":24093, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-objcopy.exe" }}
+,{ "pid":12345, "tid":3, "ts":1716293573217640, "dur":25087, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\Tools\\InternalCallRegistrationWriter\\InternalCallRegistrationWriter.exe" }}
+,{ "pid":12345, "tid":3, "ts":1716293573242727, "dur":19393, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe" }}
+,{ "pid":12345, "tid":3, "ts":1716293573016793, "dur":245394, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716293572944738, "dur":72070, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716293573016830, "dur":176805, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\WindowsBase.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716293573193635, "dur":23873, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.runtimeconfig.json" }}
+,{ "pid":12345, "tid":4, "ts":1716293573218040, "dur":25100, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716293573016812, "dur":227368, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716293572944785, "dur":72032, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716293573016821, "dur":122421, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573140152, "dur":41842, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.UniversalWindows.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573181995, "dur":11665, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573193660, "dur":23857, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.Linux.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573217517, "dur":519, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.iOS.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573218036, "dur":24944, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.EmbeddedLinux.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716293573016821, "dur":226982, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716293572945088, "dur":71786, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716293573016878, "dur":165104, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Linq.Queryable.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716293573181983, "dur":11673, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Linq.Parallel.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716293573193657, "dur":23857, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716293573217514, "dur":743, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716293573218257, "dur":24810, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.UnmanagedMemoryStream.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716293573016878, "dur":227246, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716293572944855, "dur":71981, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716293573016842, "dur":122921, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Threading.Tasks.Dataflow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716293573140071, "dur":42105, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716293573182176, "dur":11481, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Threading.Channels.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716293573193657, "dur":23846, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Text.RegularExpressions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716293573218057, "dur":24815, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Text.Encoding.Extensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716293573016841, "dur":227043, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716293572945125, "dur":71757, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716293573016883, "dur":225965, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Globalization.Extensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716293573016883, "dur":227741, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716293572944973, "dur":71876, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716293573016853, "dur":123205, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.Csp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573140058, "dur":42075, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.Cng.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573182133, "dur":11567, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.Algorithms.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573193700, "dur":23813, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Claims.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573217513, "dur":524, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.AccessControl.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573218037, "dur":24988, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.Serialization.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716293573016853, "dur":227205, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716293572944686, "dur":72112, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716293573017180, "dur":200438, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-objcopy" }}
+,{ "pid":12345, "tid":10, "ts":1716293573217644, "dur":116035, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\external\\zlib\\adler32.c" }}
+,{ "pid":12345, "tid":10, "ts":1716293573333718, "dur":55269, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\external\\bdwgc\\extra\\gc.c" }}
+,{ "pid":12345, "tid":10, "ts":1716293573016802, "dur":372232, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716293572945028, "dur":71835, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716293573016867, "dur":200630, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebSockets.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716293573218080, "dur":24798, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebHeaderCollection.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716293573016867, "dur":227432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716293572944809, "dur":72018, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716293573016831, "dur":122621, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XPath.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573140068, "dur":41934, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XDocument.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573182002, "dur":11781, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573193783, "dur":23727, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.ReaderWriter.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573217511, "dur":522, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573218033, "dur":24831, "ph":"X", "name": "File",  "args": { "detail":"D:\\Unity Editor\\2022.3.24f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716293573016830, "dur":226963, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716293573430373, "dur":537, "ph":"X", "name": "ProfilerWriteOutput" }
+,
